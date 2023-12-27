@@ -1,11 +1,11 @@
 # FinalProj3DImmersiveTech
 
-Final Project done by Rishvaanth Thiruselvan and Dinesh Thirunavukkarasu for CS 790 Immersive 3D User Interfaces Fall 2023.
+Final Project done by Dinesh Thirunavukkarasu and Rishvaanth Thiruselvan for CS 790 Immersive 3D User Interfaces Fall 2023.
 
 Members & Emails:
 
-1. Rishvaanth Thiruselvan: <thiruse2@uwm.edu> @Rishvaanth
-2. Dinesh Kumar Thirunavukkarasu: <thiruna3@uwm.edu> @DineshDK672
+1. Dinesh Kumar Thirunavukkarasu: <thiruna3@uwm.edu> @DineshDK672
+2. Rishvaanth Thiruselvan: <thiruse2@uwm.edu> @Rishvaanth
 
 Third Party Assets:
 
