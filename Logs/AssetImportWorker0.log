@@ -1,0 +1,26 @@
+Unity Editor version:    2022.3.8f1 (b5eafc012955)
+Branch:                  2022.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.2 (Build 23C64)
+Darwin version:          23.2.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.8f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/rishvaanth_uni/Library/CloudStorage/OneDrive-UWM/Academics/Fall 2023/Courses/Immersive 3D tech/Codebase/FinalProj3DImmersiveTech
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55258
+Successfully changed project path to: /Users/rishvaanth_uni/Library/CloudStorage/OneDrive-UWM/Academics/Fall 2023/Courses/Immersive 3D tech/Codebase/FinalProj3DImmersiveTech
